@@ -1,4 +1,4 @@
-name: Continous integration for pull requests
+name: PR_CI
 
 on:
   pull_request:
